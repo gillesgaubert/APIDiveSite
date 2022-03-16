@@ -1,0 +1,253 @@
+[
+
+	{
+		"id": "1",
+		"location": "Taveuni, Fiji",
+		"name": "Great White Wall",
+		"maxDepth": "40",
+		"minLevel": "Experienced",
+		"comments": "The locals have done a great job in protecting the local reefs. As a result, you’ll see thousands of species of coral and marine life. At the Great White Wall, you’ll start off by swimming through a cave then see a hill of what seemingly looks white with coral descending into the depths. Also, keep you eye out for batfish and barracuda that frequent the area.",
+		"otherds": ""
+	},
+
+	{
+		"id": "2",
+		"location": "Cancun, Mexico",
+		"name": "Manchones Reef",
+		"maxDepth": "10",
+		"minLevel": "Beginner",
+		"comments": "Mexico definitely offers a wide range of diving options but the Manchones Reef in Cancun is a unique spot with over 60 underwater sculptures that form an artificial reef, including 400 life-sized figures. They make for a truly eerie experience. You’ll find lobsters, moray eels, barracuda, and more making their home in the reef.",
+		"otherds": ""
+	},
+
+	{
+		"id": "3",
+		"location": "Red Sea, Egypt",
+		"name": "SS Thistlegorm",
+		"maxDepth": "30",
+		"minLevel": "Beginner",
+		"comments": "The SS Thistlegorm is the most popular wreck dive in the world. This British transport ship was sunk in 1941 and is a 128 meters long. There are rifles, motorbikes, trucks, armored cars, and more! Check out all the wreckage and the marine life that it attracts.",
+		"otherds": ""
+	},
+
+	{
+		"id": "4",
+		"location": "Palau, Micronesia",
+		"name": "Blue Corner Wall",
+		"maxDepth": "30",
+		"minLevel": "Beginner",
+		"comments": "Diving here will feel like you’re in the middle of a Planet Earth episode. Reef sharks, bigeye jacks, eagle rays, tuna, snapper, soft coral, and green turtles are just a few of the things you’ll see. And be sure to pay attention to the walls and corals to catch morays, nudibranchs, and mantis shrimp.",
+		"otherds": ""
+	},
+
+	{
+		"id": "5",
+		"location": "Bali, Indonesia",
+		"name": "Liberty",
+		"maxDepth": "25",
+		"minLevel": "Beginner",
+		"comments": "Indonesia is filled with tons of diving spots. One of the most popular is the Liberty wreck, which makes its home just 30 meters from the beach. Sunken into black sand, you’ll find angelfish, surgeonfish, and glowing flashlight fish as just a couple of the over 400 specifies of fish that can be spotted here.",
+		"otherds": ""
+	},
+
+	{
+		"id": "6",
+		"location": "Cocos Island, Costa Rica",
+		"name": "Bajo Alcyone",
+		"maxDepth": "30",
+		"minLevel": "Beginner",
+		"comments": "If you’ve seen Jurassic Park, then you’ve seen Cocos Island. And as the movie portrayed it, nature is still very much wild here. Bajo Alcyone offers you the chance to come face-to-face with hundreds of scalloped hammerhead sharks and huge schools of fish.",
+		"otherds": "Add Punta Gord. Murcielagos, and the islands of the Catalinas to your list."
+	},
+
+	{
+		"id": "7",
+		"location": "The Galapagos Islands, Ecuador",
+		"name": "Gordon Rocks",
+		"maxDepth": "40",
+		"minLevel": "Experienced",
+		"comments": "We’ve been snorkeling in the Galapagos and can definitely see why it’s such a huge diving spot. At the Gordon Rocks, the current can be strong, but you’ll find yourself surrounded by sea lions, hammerhead sharks, manta rays, moray eels and tons of tropical fish. And with the current, you may not even have to go looking for them since they’ll be directed right to you!",
+		"otherds": ""
+	},
+
+	{
+		"id": "8",
+		"location": "Pangiroa, French Polynesia",
+		"name": "Tiputa Pass",
+		"maxDepth": "45",
+		"minLevel": "Experienced",
+		"comments": "See playful dolphins, turtles, manta rays, leopard rays, and whales (between July and August) at this dive site. You can even explore Shark Cave and swim through a narrow channel.",
+		"otherds": "Mostly known as a honeymoon spot, Bora Bora also offers great diving. It has earned the name Shark Capital of the Pacific."
+	},
+
+	{
+		"id": "9",
+		"location": "Australia",
+		"name": "The Yongala",
+		"maxDepth": "30",
+		"minLevel": "Beginner",
+		"comments": "As expected, Australia offers amazing diving. The Yongala is considered one of the best wreck dives in the world. Besides the rich history, the wreck is home to giant groupers (like 2 meters big), manta rays, sea snakes, octopuses, and a bunch of sharks, including the bull, tiger, and leopard. During the winter, you can catch minke and humpback whales.",
+		"otherds": "Navy Pier and Great Barrier Reef are just a couple other great spots !"
+	},
+
+	{
+		"id": "10",
+		"location": "Sipadan Island, Malaysia",
+		"name": "Barracuda Point",
+		"maxDepth": "40",
+		"minLevel": "Beginner",
+		"comments": "If you’re hoping to see big marine life, this is the place to be. You easily find yourself surrounded by sharks (hammerhead, white tip, leopard) and barracuda. Besides that, sea turtles, jacks, and parrotfish also make their home here.",
+		"otherds": ""
+	},
+
+	{
+		"id": "11",
+		"location": "Belize",
+		"name": "Great Blue Hole",
+		"maxDepth": "124",
+		"minLevel": "Experienced",
+		"comments": "This massive sinkhole is becoming a big attraction for tourists, but divers get a unique look at this marine ecosystem. You’ll find schools of giant groupers, sharks, and huge tuna making their home here. The underwater caves, stalactites, and stalagmites are also amazing to explore.",
+		"otherds": "Also check out Ambergris Cave while you’re in Belize."
+	},
+
+	{
+		"id": "12",
+		"location": "Kona, Hawaii",
+		"name": "Kailua-Kona",
+		"maxDepth": "6",
+		"minLevel": "Beginner",
+		"comments": "This spot offers you a unique chance to see Manta Rays at night. Using high-powered flash lights, you get to see these graceful creatures feed on phytoplankton. Some of the Manta Ray are up to 20-feet wide and 3,000 pounds!",
+		"otherds": ""
+	},
+
+	{
+		"id": "13",
+		"location": "Vanuatu",
+		"name": "SS President Coolidge",
+		"maxDepth": "30",
+		"minLevel": "Beginner",
+		"comments": "After hitting a minefield, this ship sunk decked out with cannons, chandeliers, jeeps, and more. Originally an ocean liner, it was transformed into a troop carrier during World War II. The ship is still mostly intact and offers a variety of diving routes. And of course, you’ll see plenty of marine life that make their home here.",
+		"otherds": ""
+	},
+
+	{
+		"id": "14",
+		"location": "Maldives",
+		"name": "Maaya Thila",
+		"maxDepth": "30",
+		"minLevel": "Beginner",
+		"comments": "Maaya Thila is one of the favorite diving spots in the Maldives. It’s often referred to as the white tip reef shark capital of the Maldives and is home to a wide range of tropical fish, including the beautiful moorish idol. You will definitely want to make multiple dives to see everything!",
+		"otherds": ""
+	},
+
+	{
+		"id": "15",
+		"location": "Palawan, Philippines",
+		"name": "Tubbataha",
+		"maxDepth": "60",
+		"minLevel": "Experienced",
+		"comments": "A land of the giants, Tubbataha has exceptionally clean water that helps all the marine life live longer. There are over 300 types of coral and more than 375 species of fish. You’ll find everything from colorful tropical fish, blue-spotted lagoon rays, unicorns, nurse sharks, and more.",
+		"otherds": "The Philippines is made up of thousands of islands with an equal number of dive spots. Puerto Galera is also a great spot for tons of marine life and colorful coral."
+	},
+
+	{
+		"id": "16",
+		"location": "Surin Islands, Thailand",
+		"name": "Richelieu Rock",
+		"maxDepth": "25",
+		"minLevel": "Beginner",
+		"comments": "Whale sharks are regularly spotted here, so naturally divers flock here as well. But even if aren’t able to spot one, there is still a ton of other marine life and huge schools of fish, including giant trevallies and dogtooth tuna.",
+		"otherds": "Thailand definitely offers some great diving spots. Check out Koh Tao Island and Phuket as just a couple others."
+	},
+
+	{
+		"id": "17",
+		"location": "Bonaire, Netherlands Antilles",
+		"name": "La Dania’s Leap to Karpata",
+		"maxDepth": "40",
+		"minLevel": "Experienced",
+		"comments": "This marine park has over 100 diving spots that are protected and untouched. You’ll find snapper, goatfish, butterfly fish, nurse sharks, sea turtles, and more. Visit between September to December when the sea is the calmest.",
+		"otherds": ""
+	},
+
+	{
+		"id": "18",
+		"location": "ingvellier, Iceland",
+		"name": "Silfra",
+		"maxDepth": "45",
+		"minLevel": "Experienced",
+		"comments": "Dive into this lake and swim between two continents (North American and Europe) at this spot. The chasm between the two tectonic plates leads to a huge cave with amazing visibility and jaw-dropping views. Just remember that the water is really cold here because of the melting glaciers about 20 miles away.",
+		"otherds": ""
+	},
+
+	{
+		"id": "19",
+		"location": "Poor Knights Islands, New Zealand",
+		"name": "Middle Arch",
+		"maxDepth": "40",
+		"minLevel": "Beginner",
+		"comments": "This underwater garden is home nudibranchs, coralfish, and if you can spot them, scorpion fish. It’s some of the best sub-tropical diving you can do.",
+		"otherds": "Also check out Northern Arch, Bernies Cave, Landing Bay Pinnacle, and Blue Maomao Arch."
+	},
+
+	{
+		"id": "20",
+		"location": "Little Cayman, Cayman Islands",
+		"name": "Bloody Bay Wall",
+		"maxDepth": "1000",
+		"minLevel": "Experienced",
+		"comments": "This seemingly endless wall has 13 stop-offs that give you plenty of options. The bright tube sponges, small caves, and tropical fish give you plenty to explore and appreciate. Don’t forget to glance up to the surface and down towards the abyss to remind yourself how small we all are.",
+		"otherds": ""
+	},
+
+	{
+		"id": "21",
+		"location": "Borneo, Malaysia",
+		"name": "Layang Layang",
+		"maxDepth": "50",
+		"minLevel": "Beginner",
+		"comments": "This exclusive dive resort is worth the trip! Secluded waters and plenty of dives sites give you the chance to see schools of hammerheads, whale sharks, and surgeonfish. Some of the best dives are the Gorgonian Forest, Wreck Point, and D’Wall.",
+		"otherds": ""
+	},
+
+	{
+		"id": "22",
+		"location": "Tofo, Mozambique",
+		"name": "Manta Reef",
+		"maxDepth": "28",
+		"minLevel": "Beginner",
+		"comments": "Names for the humungous mantas that you’ll see, this is a truly unique experience. Swim side by side with these giants that reach up to six meters across and watch for the smaller fish that attach themselves on to feed on parasites. You’ll also find plenty of tropical fish and beautiful coral.",
+		"otherds": ""
+	},
+
+	{
+		"id": "23",
+		"location": "Gozo, Malta",
+		"name": "Blue Hole",
+		"maxDepth": "45",
+		"minLevel": "Beginner",
+		"comments": "This dive spot focuses on the caves and scenery more than the marine life. The limestone walls are home to sea urchins and starfish, and they make a beautiful backdrop to the bright blue waters.",
+		"otherds": ""
+	},
+
+	{
+		"id": "24",
+		"location": "Turks and Caicos",
+		"name": "West Caicos Walls",
+		"maxDepth": "1800",
+		"minLevel": "Beginner",
+		"comments": "Turks and Caicos is home to plenty of diving spots, but one of the most unique is the 6000-foot drop off that is only a mile and half from shore. You’ll find corals, sponges, tropical fish, sharks, sea turtles, and more. The government also makes a huge effort to keep the waters and marine life protected.",
+		"otherds": ""
+	},
+
+	{
+		"id": "25",
+		"location": "Gizo, Solomon Islands",
+		"name": "Grand Central Station",
+		"maxDepth": "50",
+		"minLevel": "Beginner",
+		"comments": "At this dive spot, you’ll have to learn to go with the flow. With a current strong enough to knock your mask off, you just need to relax and enjoy the show. You’ll see some of the highest concentrations of fish on the planet and a mix of all sizes and shapes.",
+		"otherds": ""
+	}
+
+]
